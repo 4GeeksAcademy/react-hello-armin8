@@ -10,11 +10,12 @@ import '../styles/index.css'
 
 // components
 import Home from './components/Home';
-import Home from './components/Jumbotron';
+import Jumbotron from './components/Jumbotron';
+import Card from './components/Card';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Home/> <Jumbotron/>
+    <Home/> <Jumbotron/> <Card/>
   </React.StrictMode>,
 )
  

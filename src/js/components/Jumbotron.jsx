@@ -6,7 +6,7 @@ const Jumbotron = () => {
             <div className="container-fluid py-5 text-start">
                 <h1 className="display-5 fw-bold">A Warm Welcome!</h1>
                 <p className="col-md-8 fs-4">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore facere distinctio voluptates quia officiis unde nobis neque veniam hic. Sequi totam laudantium, velit a quaerat deleniti blanditiis facere reiciendis cumque!
+                React te permite crear interfaces de usuario a partir de piezas individuales llamadas componentes. Crea tus propios componentes de React como , y . Luego, combínalos en pantallas, páginas y aplicaciones completas.
                 </p>
                 <button className="btn btn-primary btn-lg" type="button">
                     Call to action!
