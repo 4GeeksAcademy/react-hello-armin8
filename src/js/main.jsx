@@ -9,7 +9,7 @@ import "bootstrap"
 import '../styles/index.css'
 
 // components
-import Home from './components/Home';
+import Home from './components/Navbar';
 import Jumbotron from './components/Jumbotron';
 import Card from './components/Card';
 import Footer from './components/Footer';
