@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = () => {
     return (
-        <div className="row row-cols-1 row-cols-md-4 g-4 mb-5">
+        <div className="row row-cols-1 row-cols-md-4 g-4 mb-5 m-20">
         <div className="col">
           <div className="card h-100">
             <img src="https://picsum.photos/200/300
